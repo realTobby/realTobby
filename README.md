@@ -1,5 +1,3 @@
 ![Banner](https://github.com/realTobby/realTobby/blob/master/tobby.gif)
-[![realTobby GitHub Stats](https://github-readme-stats.vercel.app/api?username=realTobby&show_icons=true&&them=&hide_title=false)](https://github.com/realTobby)
-</div>
-
+<iframe src="https://open.spotify.com/embed/track/1parCywpMDF9i6sO13kyvc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
