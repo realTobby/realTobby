@@ -5,6 +5,10 @@
 <h1 align="center">Hi 👋, I'm Tobby</h1>
 <h3 align="center">pursuing fun activities, from Berlin</h3>
 
+<p align="left">Like my Projects? Consider donating! </p>
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JEYR8CUCRW436)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=realtobby&label=Profile%20views&color=0e75b6&style=flat" alt="realtobby" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realtobby" alt="realtobby" /></a> </p>
