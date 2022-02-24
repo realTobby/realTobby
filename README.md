@@ -17,4 +17,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realtobby&show_icons=true&locale=en&layout=compact" alt="realtobby" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realtobby&" alt="realtobby" /></p>
+![realTobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=realTobby&show_icons=true&theme=radical)
